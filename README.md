@@ -1,5 +1,5 @@
 # NgIronFeatures
 Testing angular features
 
-##Features
+### Features
 1. Use JS functions in Angular
